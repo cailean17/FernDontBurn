@@ -1,0 +1,4 @@
+pole name, Co2 concentration, battery level, tilt
+Estrade Drive Utility Pole, 0.343252342432, 50.0, 10.0
+PG&E Trail Utility Pole 2, 0.8907956563, 80.0, 120.0
+Kooser Drive Utility Pole, 0.4545239234, 10.0, 0.0
